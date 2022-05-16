@@ -1,0 +1,17 @@
+{
+  "exercises": [
+    {
+    "title": "Pushups",
+    "details": "Pushups are beneficial for building upper body strength.",
+    "complete": true,
+    "id": 119
+
+    },
+    {
+      "title": "Lorem Ipsum",
+      "details": "Lorem Ipsum",
+      "complete": false,
+      "id": 5906
+    }
+  ]
+}
